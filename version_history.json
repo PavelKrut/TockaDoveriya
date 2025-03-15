@@ -1,0 +1,465 @@
+{
+  "versions": [
+    {
+      "versionName": "1.0.0-alpha.1",
+      "versionCode": 1000001,
+      "releaseDate": "2024-05-01",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "new",
+          "description": "Первая альфа-версия приложения"
+        },
+        {
+          "type": "new",
+          "description": "Реализована базовая авторизация пользователей"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена возможность входа через социальные сети"
+        },
+        {
+          "type": "new",
+          "description": "Создан экран информации о приложении"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.3",
+      "versionCode": 1000003,
+      "releaseDate": "2024-05-15",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "new",
+          "description": "Добавлена система обновлений приложения"
+        },
+        {
+          "type": "new",
+          "description": "Реализованы уведомления о доступных обновлениях"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в интерфейсе"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.4",
+      "versionCode": 1000004,
+      "releaseDate": "2024-05-20",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "new",
+          "description": "Добавлена возможность проверки обновлений из экрана 'О приложении'"
+        },
+        {
+          "type": "improved",
+          "description": "Улучшен интерфейс экрана обновления"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в системе обновлений"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.5",
+      "versionCode": 1000005,
+      "releaseDate": "2024-06-01",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена стабильность приложения"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в системе обновлений"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.6",
+      "versionCode": 1000006,
+      "releaseDate": "2024-06-10",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена система обновлений"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в процессе установки обновлений"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.10",
+      "versionCode": 1000010,
+      "releaseDate": "2024-06-20",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена система обновлений с Яндекс.Диска"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в процессе установки обновлений"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена поддержка фиксированной ссылки на обновление"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.11",
+      "versionCode": 1000011,
+      "releaseDate": "2024-06-25",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Исправлена проблема с версиями в манифесте"
+        },
+        {
+          "type": "fix",
+          "description": "Улучшена синхронизация версий между файлами"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена автоматическая синхронизация версий в манифесте"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.12",
+      "versionCode": 1000012,
+      "releaseDate": "2024-06-30",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена система обновления версий"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в процессе синхронизации версий"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена поддержка автоматического обновления версии в манифесте"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.13",
+      "versionCode": 1000013,
+      "releaseDate": "2024-07-05",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена стабильность приложения"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в процессе обновления"
+        },
+        {
+          "type": "new",
+          "description": "Добавлены новые функции"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.14",
+      "versionCode": 1000014,
+      "releaseDate": "2024-07-10",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена система проверки обновлений"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлена проблема с определением актуальной версии"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена синхронизация версий между файлами"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.15",
+      "versionCode": 1000015,
+      "releaseDate": "2024-07-15",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена система обнаружения обновлений"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлена проблема с проверкой актуальности версии"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена проверка соответствия версий в разных файлах"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.16",
+      "versionCode": 1000016,
+      "releaseDate": "2024-07-20",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена система скачивания обновлений"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлена проблема с путями к файлам на Яндекс.Диске"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена поддержка прямых ссылок на файлы"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.17",
+      "versionCode": 1000017,
+      "releaseDate": "2024-07-25",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена стабильность приложения"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в процессе обновления"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена улучшенная обработка ссылок на Яндекс.Диск"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.18",
+      "versionCode": 1000018,
+      "releaseDate": "2024-07-30",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена производительность приложения"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки в интерфейсе"
+        },
+        {
+          "type": "new",
+          "description": "Добавлены новые функции и улучшения"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.19",
+      "versionCode": 1000019,
+      "releaseDate": "2024-08-05",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improved",
+          "description": "Улучшена система обновления приложения"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлена проблема с проверкой хеша файла обновления"
+        },
+        {
+          "type": "new",
+          "description": "Добавлена улучшенная обработка ошибок при обновлении"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.26",
+      "versionCode": 1000026,
+      "releaseDate": "2025-03-15",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improvement",
+          "description": "Обновлена система проверки обновлений"
+        },
+        {
+          "type": "improvement",
+          "description": "Добавлена интеграция с GitHub API для получения информации о новых версиях"
+        },
+        {
+          "type": "fix",
+          "description": "Удалены зависимости от Яндекс.Диска"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.25",
+      "versionCode": 1000025,
+      "releaseDate": "2025-03-15",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improvement",
+          "description": "Обновлена система проверки обновлений"
+        },
+        {
+          "type": "improvement",
+          "description": "Добавлена интеграция с GitHub API для получения информации о новых версиях"
+        },
+        {
+          "type": "fix",
+          "description": "Удалены зависимости от Яндекс.Диска"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.34",
+      "versionCode": 1000034,
+      "releaseDate": "2025-03-20",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improvement",
+          "description": "Улучшен механизм установки обновлений"
+        },
+        {
+          "type": "fix",
+          "description": "Исправлены ошибки при проверке разрешений для установки APK"
+        },
+        {
+          "type": "improvement",
+          "description": "Добавлена проверка установленного обновления"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.35",
+      "versionCode": 1000035,
+      "releaseDate": "2025-03-25",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improvement",
+          "description": "Улучшения в системе обновлений"
+        },
+        {
+          "type": "fix",
+          "description": "Исправления ошибок и оптимизация производительности"
+        },
+        {
+          "type": "improvement",
+          "description": "Добавлена поддержка автоматической проверки установленных обновлений"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.36",
+      "versionCode": 1000036,
+      "releaseDate": "2025-03-30",
+      "minRequiredVersion": "1.0.0-alpha.1",
+      "critical": false,
+      "changes": [
+        {
+          "type": "improvement",
+          "description": "Улучшенный механизм проверки обновлений"
+        },
+        {
+          "type": "fix",
+          "description": "Исправления ошибок при установке APK"
+        },
+        {
+          "type": "improvement",
+          "description": "Оптимизация работы приложения"
+        }
+      ]
+    },
+    {
+      "versionName": "1.0.0-alpha.38",
+      "versionCode": 1000038,
+      "releaseDate": "2023-11-15",
+      "releaseNotes": "Улучшен механизм установки обновлений:\n- Исправлена проблема с установкой APK файлов\n- Добавлены дополнительные проверки файла обновления\n- Улучшена обработка ошибок при установке\n- Добавлены уведомления о результатах установки"
+    },
+    {
+      "versionName": "1.0.0-alpha.37",
+      "versionCode": 1000037,
+      "releaseDate": "2023-11-14",
+      "releaseNotes": "Исправлены ошибки в механизме обновления приложения"
+    },
+    {
+      "versionName": "1.0.0-alpha.36",
+      "versionCode": 1000036,
+      "releaseDate": "2023-11-13",
+      "releaseNotes": "Добавлен механизм обновления приложения"
+    },
+    {
+      "versionName": "1.0.0-alpha.35",
+      "versionCode": 1000035,
+      "releaseDate": "2023-11-10",
+      "releaseNotes": "Исправлены ошибки в интерфейсе пользователя"
+    },
+    {
+      "versionName": "1.0.0-alpha.34",
+      "versionCode": 1000034,
+      "releaseDate": "2023-11-08",
+      "releaseNotes": "Добавлена поддержка темной темы"
+    },
+    {
+      "versionName": "1.0.0-alpha.33",
+      "versionCode": 1000033,
+      "releaseDate": "2023-11-05",
+      "releaseNotes": "Улучшена производительность приложения"
+    }
+  ],
+  "latestVersion": {
+    "versionName": "1.0.0-alpha.38",
+    "versionCode": 1000038,
+    "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/1.0.0-alpha.38/1.0.0-alpha.38.apk",
+    "fileSize": 19521014,
+    "sha256": "ee8a560c86a00ded8df30894e3e8bdfa87a51a77a249f3ab0f57ec18953f9ee2",
+    "releaseNotes": "Версия 1.0.0-alpha.38 включает улучшенный механизм логирования событий обновления, исправления ошибок при установке APK и оптимизацию процесса обновления. Добавлена публичная функция logUpdateEvent для отслеживания процесса обновления.",
+    "isMandatory": false
+  }
+} 
