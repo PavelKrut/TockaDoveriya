@@ -2,9 +2,9 @@
   "latestVersion": {
     "versionName": "1.0.0-alpha.39",
     "versionCode": 1000039,
-    "downloadUrl": "https://github.com/yourusername/TockaDoveriya/releases/download/v1.0.0-alpha.39/app-debug.apk",
+    "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/raw/main/releases/1.0.0-alpha.39.apk",
     "fileSize": 21411725,
-    "sha256": "5eb804711480835b309700713ca72fc0ba9db57393c2147b7c4c3f88d20f1cf3",
+    "sha256": "80952107b64e628ba9d7a63ba5985c18cbe5dfbb30c6a7a0dfd71f318511143f",
     "releaseNotes": "Версия 1.0.0-alpha.39 включает в себя следующие изменения:\n1. Добавлен диалог 'О приложении' с функционалом проверки обновлений в новом дизайне авторизации\n2. Удален неиспользуемый экран AppInfoActivity\n3. Исправлены ошибки в интерфейсе\n4. Улучшена стабильность приложения",
     "releaseDate": "2025-03-16",
     "isMandatory": false
@@ -13,9 +13,9 @@
     {
       "versionName": "1.0.0-alpha.39",
       "versionCode": 1000039,
-      "downloadUrl": "https://github.com/yourusername/TockaDoveriya/releases/download/v1.0.0-alpha.39/app-debug.apk",
+      "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/raw/main/releases/1.0.0-alpha.39.apk",
       "fileSize": 21411725,
-      "sha256": "5eb804711480835b309700713ca72fc0ba9db57393c2147b7c4c3f88d20f1cf3",
+      "sha256": "80952107b64e628ba9d7a63ba5985c18cbe5dfbb30c6a7a0dfd71f318511143f",
       "releaseNotes": "Версия 1.0.0-alpha.39 включает в себя следующие изменения:\n1. Добавлен диалог 'О приложении' с функционалом проверки обновлений в новом дизайне авторизации\n2. Удален неиспользуемый экран AppInfoActivity\n3. Исправлены ошибки в интерфейсе\n4. Улучшена стабильность приложения",
       "releaseDate": "2025-03-16",
       "isMandatory": false
