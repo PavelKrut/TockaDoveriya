@@ -2,20 +2,21 @@
   "latestVersion": {
     "versionName": "1.0.0-alpha.39",
     "versionCode": 1000039,
-    "downloadUrl": "https://raw.githubusercontent.com/PavelKrut/TockaDoveriya/main/releases/1.0.0-alpha.39.apk",
+    "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/1.0.0-alpha.39/1.0.0-alpha.39.apk",
     "fileSize": 21411829,
-    "sha256": "052e50b3b21df4a54e2469d25711458cdae4d1b5dc705db4bb90cfd1a6a38842",
+    "sha256": "390246dd1f08f6ffe8724fc98ea538ccf4b2d61a4bf867b031041d5a62371259",
     "releaseNotes": "Версия 1.0.0-alpha.39 включает в себя следующие изменения:\n1. Добавлен диалог 'О приложении' с функционалом проверки обновлений в новом дизайне авторизации\n2. Удален неиспользуемый экран AppInfoActivity\n3. Исправлены ошибки в интерфейсе\n4. Улучшена стабильность приложения\n5. Иконки социальных сетей теперь используются из папок mipmap для разных разрешений",
     "releaseDate": "2025-03-16",
     "isMandatory": false
   },
+  "latestDownloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/latest/download/1.0.0-alpha.39.apk",
   "versionHistory": [
     {
       "versionName": "1.0.0-alpha.39",
       "versionCode": 1000039,
-      "downloadUrl": "https://raw.githubusercontent.com/PavelKrut/TockaDoveriya/main/releases/1.0.0-alpha.39.apk",
+      "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/1.0.0-alpha.39/1.0.0-alpha.39.apk",
       "fileSize": 21411829,
-      "sha256": "052e50b3b21df4a54e2469d25711458cdae4d1b5dc705db4bb90cfd1a6a38842",
+      "sha256": "390246dd1f08f6ffe8724fc98ea538ccf4b2d61a4bf867b031041d5a62371259",
       "releaseNotes": "Версия 1.0.0-alpha.39 включает в себя следующие изменения:\n1. Добавлен диалог 'О приложении' с функционалом проверки обновлений в новом дизайне авторизации\n2. Удален неиспользуемый экран AppInfoActivity\n3. Исправлены ошибки в интерфейсе\n4. Улучшена стабильность приложения\n5. Иконки социальных сетей теперь используются из папок mipmap для разных разрешений",
       "releaseDate": "2025-03-16",
       "isMandatory": false
