@@ -1,9 +1,0 @@
-{
-  "version_name": "1.0.0-alpha.38",
-  "version_code": 1000038,
-  "download_url": "https://github.com/PavelKrut/TockaDoveriya/releases/download/1.0.0-alpha.38/1.0.0-alpha.38.apk",
-  "file_size": 19521014,
-  "sha256": "ee8a560c86a00ded8df30894e3e8bdfa87a51a77a249f3ab0f57ec18953f9ee2",
-  "release_notes": "Улучшен механизм установки обновлений:\n- Исправлена проблема с установкой APK файлов\n- Добавлены дополнительные проверки файла обновления\n- Улучшена обработка ошибок при установке\n- Добавлены уведомления о результатах установки",
-  "is_mandatory": false
-} 
