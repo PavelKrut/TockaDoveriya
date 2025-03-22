@@ -2,7 +2,7 @@
   "latestVersion": {
     "versionName": "1.0.0-alpha.40",
     "versionCode": 1000040,
-    "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/1.0.0-alpha.40/1.0.0-alpha.40.apk",
+    "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/40/latest.apk",
     "fileSize": 22946067,
     "sha256": "E903A4088E8851A5835F720EFEBF72C12546F2549B0EACBCC2C3A59681E991C6",
     "releaseNotes": "Версия 1.0.0-alpha.40 включает в себя следующие изменения:\n1. Улучшен пользовательский интерфейс экрана регистрации\n2. Исправлено отображение логотипа приложения\n3. Оптимизирована производительность приложения\n4. Правильное отображение названия приложения в заголовке\n5. Исправлены ошибки в интерфейсе авторизации",
