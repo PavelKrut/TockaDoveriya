@@ -1,16 +1,26 @@
 {
   "latestVersion": {
-    "versionName": "1.0.0-alpha.40",
-    "versionCode": 1000040,
-    "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/40/latest.apk",
-    "fileSize": 22946067,
-    "sha256": "E903A4088E8851A5835F720EFEBF72C12546F2549B0EACBCC2C3A59681E991C6",
-    "releaseNotes": "Версия 1.0.0-alpha.40 включает в себя следующие изменения:\n1. Улучшен пользовательский интерфейс экрана регистрации\n2. Исправлено отображение логотипа приложения\n3. Оптимизирована производительность приложения\n4. Правильное отображение названия приложения в заголовке\n5. Исправлены ошибки в интерфейсе авторизации",
-    "releaseDate": "2025-03-22",
+    "versionName": "1.0.0-alpha.41",
+    "versionCode": 1000041,
+    "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/1.0.0-alpha.41/latest.apk",
+    "fileSize": 22950119,
+    "sha256": "9497d02417072259a233fd9db4ec5a756d53944ac001b9153d7d2d3a57a7a52b",
+    "releaseNotes": "Версия 1.0.0-alpha.41 включает в себя следующие изменения:\n1. Изменен текст поля 'Имя' на 'Имя (действительное)' на экране регистрации\n2. Исправлены мелкие ошибки\n3. Улучшена производительность приложения",
+    "releaseDate": "2024-05-30",
     "isMandatory": false
   },
   "latestDownloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/latest/download/latest.apk",
   "versionHistory": [
+    {
+      "versionName": "1.0.0-alpha.41",
+      "versionCode": 1000041,
+      "downloadUrl": "https://github.com/PavelKrut/TockaDoveriya/releases/download/1.0.0-alpha.41/1.0.0-alpha.41.apk",
+      "fileSize": 22950119,
+      "sha256": "9497d02417072259a233fd9db4ec5a756d53944ac001b9153d7d2d3a57a7a52b",
+      "releaseNotes": "Версия 1.0.0-alpha.41 включает в себя следующие изменения:\n1. Изменен текст поля 'Имя' на 'Имя (действительное)' на экране регистрации\n2. Исправлены мелкие ошибки\n3. Улучшена производительность приложения",
+      "releaseDate": "2024-05-30",
+      "isMandatory": false
+    },
     {
       "versionName": "1.0.0-alpha.40",
       "versionCode": 1000040,
